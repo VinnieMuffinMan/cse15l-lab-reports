@@ -1,8 +1,11 @@
 # cse15l-lab-reports
 
 This is normal text
+
 *This is italcised*
+
 **This is bolded**
+
 [Link](google.com)
 ***
 >This
