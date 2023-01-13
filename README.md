@@ -6,7 +6,7 @@ This is normal text
 
 **This is bolded**
 
-[Link](google.com)
+[Google](google.com)
 ***
 >This
 >
