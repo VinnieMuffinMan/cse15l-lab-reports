@@ -5,4 +5,5 @@ Getting VScode onto your machine is fairly simple. Just download the installer f
 After installing, you should see a screen similar to this.
 ![Image](https://drive.google.com/uc?export=view&id=15cWfF2-iYD-AlOu3mg2itCsmFGJ7PDK1)
 ## Remotely Connecting
+To start connecting, we will be using the Bash terminal from Git which can also be installed from their website.
 ## Trying Some Commands
