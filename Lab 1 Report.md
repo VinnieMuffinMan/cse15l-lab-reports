@@ -17,7 +17,7 @@ Your account can be found on this website:
 There should also be a link on that website to set your password. Use this command to connect to your account:
 `ssh cs15lwi23{your own letters}@ieng6.ucsd.edu`
 It will prompt for the password. Just keep in mind it won't show any feedback when you are typing. Just hit enter when you finish typing your password. Type `yes` when it prompts you if you want to continue connecting. This should never show up again (explanation [here](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084)). For me when I connect, I will be using my UCSD account since I am still having issues of setting my password as of the writing of this article.
-If everything goes right, you should see a screen like this but instead of `vmn004@ieng6.ucsd.edu`:
+If everything goes right, you should see a screen like this but your account instead of `vmn004@ieng6.ucsd.edu`:
 ![Connected](https://drive.google.com/uc?export=view&id=1t6goYyjYodHp1kbO1YKCPwkhzTr5iza_)
 ## Trying Some Commands
 Now that you are connected, you can try some commands. Here are a few:
