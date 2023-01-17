@@ -1,4 +1,3 @@
-
 # Lab 1 Report
 To connect to the remote ieng6 account, there are 3 main steps.
 ## Installing VScode
