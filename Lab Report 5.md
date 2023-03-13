@@ -1,4 +1,4 @@
-# Lab Report 4
+# Lab Report 5
 This report will look at using a Bash script to automate the entirety of the CLDQ. The main script is shown below and consists of 2 parts, the initialization step and then the main task, both of which copy and run a script on the remote server.
 
 ### CLDQ.sh
